@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TranslationPro</string>
+    <array name="languge">
+        <item>"en"</item>
+        <item>"ar"</item>
+        <item>"it"</item>
+        <item>"fr"</item>
+        <item>"gr"</item>
+        <item>"tr"</item>
+        <item>"in"</item>
+        <item>"ch"</item>
+
+    </array>
+</resources>
